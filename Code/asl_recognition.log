@@ -1,0 +1,38 @@
+2025-09-13 23:28:11,559 - INFO - Configuration loaded from config.json
+2025-09-13 23:28:11,565 - INFO - MediaPipe hands detection initialized
+2025-09-13 23:28:11,612 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\priranshu\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-13 23:28:11,612 - INFO - Using writeable comtypes cache directory: 'C:\Users\priranshu\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2025-09-13 23:28:11,701 - INFO - Text-to-speech engine initialized
+2025-09-13 23:28:11,702 - INFO - ASL Alphabet Recognition System initialized
+2025-09-13 23:28:11,702 - INFO - Starting ASL Alphabet Recognition System
+2025-09-13 23:28:12,611 - INFO - Camera 0 initialized
+2025-09-13 23:29:16,217 - INFO - Recognized: X (confidence: 0.90)
+2025-09-13 23:29:21,517 - INFO - Recognized: C (confidence: 0.90)
+2025-09-13 23:29:23,106 - INFO - Recognized: SPACE (confidence: 0.95)
+2025-09-13 23:29:25,657 - INFO - Recognized: E (confidence: 0.90)
+2025-09-13 23:29:26,547 - INFO - Recognized: A (confidence: 0.90)
+2025-09-13 23:29:27,939 - INFO - Recognized: C (confidence: 0.90)
+2025-09-13 23:29:29,135 - INFO - Recognized: A (confidence: 0.90)
+2025-09-13 23:29:30,585 - INFO - Recognized: SPACE (confidence: 0.95)
+2025-09-13 23:29:39,194 - INFO - Recognized: K (confidence: 0.90)
+2025-09-13 23:29:40,568 - INFO - Recognized: E (confidence: 0.90)
+2025-09-13 23:29:40,973 - INFO - Recognized: A (confidence: 0.90)
+2025-09-13 23:29:43,183 - INFO - Recognized: D (confidence: 0.90)
+2025-09-13 23:29:43,632 - INFO - Recognized: A (confidence: 0.90)
+2025-09-13 23:29:44,613 - INFO - Recognized: D (confidence: 0.90)
+2025-09-13 23:29:47,453 - INFO - Recognized: B (confidence: 0.90)
+2025-09-13 23:29:49,166 - INFO - Recognized: P (confidence: 0.90)
+2025-09-13 23:29:50,052 - INFO - Recognized: B (confidence: 0.90)
+2025-09-13 23:29:52,996 - INFO - Recognized: D (confidence: 0.90)
+2025-09-13 23:29:53,884 - INFO - Recognized: L (confidence: 0.90)
+2025-09-13 23:29:54,556 - INFO - Recognized: D (confidence: 0.90)
+2025-09-13 23:29:56,841 - INFO - Recognized: K (confidence: 0.90)
+2025-09-13 23:29:59,230 - INFO - Recognized: SPACE (confidence: 0.95)
+2025-09-13 23:30:00,442 - INFO - Recognized: A (confidence: 0.90)
+2025-09-13 23:30:00,920 - INFO - Recognized: SPACE (confidence: 0.95)
+2025-09-13 23:30:03,241 - INFO - Recognized: E (confidence: 0.90)
+2025-09-13 23:30:04,889 - INFO - Recognized: SPACE (confidence: 0.95)
+2025-09-13 23:30:10,588 - INFO - Recognized: B (confidence: 0.90)
+2025-09-13 23:30:13,721 - INFO - Recognized: A (confidence: 0.90)
+2025-09-13 23:30:20,392 - INFO - Recognition history saved to recognition_history_20250913_233020.json
+2025-09-13 23:30:20,393 - INFO - Application closed

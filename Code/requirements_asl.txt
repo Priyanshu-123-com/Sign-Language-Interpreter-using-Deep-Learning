@@ -1,0 +1,17 @@
+# ASL Alphabet Recognition System Requirements
+# Core computer vision and ML libraries
+opencv-python>=4.6.0
+mediapipe>=0.10.0
+numpy>=1.21.0
+
+# Text-to-speech
+pyttsx3>=2.90
+
+# Optional: Enhanced logging and configuration
+# (These are built-in Python modules, no installation needed)
+# json
+# logging
+# threading
+# time
+# datetime
+# typing

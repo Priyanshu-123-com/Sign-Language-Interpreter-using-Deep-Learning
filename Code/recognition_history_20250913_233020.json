@@ -1,0 +1,176 @@
+{
+  "session_start": 1757786291.702817,
+  "session_duration": 128.68868803977966,
+  "total_recognitions": 28,
+  "accuracy_score": 0.9089285714285712,
+  "recognitions": [
+    {
+      "timestamp": 1757786356.2171474,
+      "letter": "X",
+      "confidence": 0.9,
+      "word": "X"
+    },
+    {
+      "timestamp": 1757786361.517104,
+      "letter": "C",
+      "confidence": 0.9,
+      "word": "XC"
+    },
+    {
+      "timestamp": 1757786363.1060603,
+      "letter": "SPACE",
+      "confidence": 0.95,
+      "word": "XC "
+    },
+    {
+      "timestamp": 1757786365.6576347,
+      "letter": "E",
+      "confidence": 0.9,
+      "word": "XC E"
+    },
+    {
+      "timestamp": 1757786366.5473135,
+      "letter": "A",
+      "confidence": 0.9,
+      "word": "XC EA"
+    },
+    {
+      "timestamp": 1757786367.9398737,
+      "letter": "C",
+      "confidence": 0.9,
+      "word": "XC EAC"
+    },
+    {
+      "timestamp": 1757786369.1356046,
+      "letter": "A",
+      "confidence": 0.9,
+      "word": "XC EACA"
+    },
+    {
+      "timestamp": 1757786370.5854027,
+      "letter": "SPACE",
+      "confidence": 0.95,
+      "word": "XC EACA "
+    },
+    {
+      "timestamp": 1757786379.194961,
+      "letter": "K",
+      "confidence": 0.9,
+      "word": "XC EACA K"
+    },
+    {
+      "timestamp": 1757786380.5683904,
+      "letter": "E",
+      "confidence": 0.9,
+      "word": "XC EACA KE"
+    },
+    {
+      "timestamp": 1757786380.9732342,
+      "letter": "A",
+      "confidence": 0.9,
+      "word": "XC EACA KEA"
+    },
+    {
+      "timestamp": 1757786383.183209,
+      "letter": "D",
+      "confidence": 0.9,
+      "word": "XC EACA KEAD"
+    },
+    {
+      "timestamp": 1757786383.6322021,
+      "letter": "A",
+      "confidence": 0.9,
+      "word": "XC EACA KEADA"
+    },
+    {
+      "timestamp": 1757786384.6137662,
+      "letter": "D",
+      "confidence": 0.9,
+      "word": "XC EACA KEADAD"
+    },
+    {
+      "timestamp": 1757786387.4530532,
+      "letter": "B",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADB"
+    },
+    {
+      "timestamp": 1757786389.1665304,
+      "letter": "P",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBP"
+    },
+    {
+      "timestamp": 1757786390.0526164,
+      "letter": "B",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPB"
+    },
+    {
+      "timestamp": 1757786392.9968681,
+      "letter": "D",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBD"
+    },
+    {
+      "timestamp": 1757786393.8844917,
+      "letter": "L",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDL"
+    },
+    {
+      "timestamp": 1757786394.556825,
+      "letter": "D",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDLD"
+    },
+    {
+      "timestamp": 1757786396.841262,
+      "letter": "K",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDLDK"
+    },
+    {
+      "timestamp": 1757786399.2306,
+      "letter": "SPACE",
+      "confidence": 0.95,
+      "word": "XC EACA KEADADBPBDLDK "
+    },
+    {
+      "timestamp": 1757786400.4427285,
+      "letter": "A",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDLDK A"
+    },
+    {
+      "timestamp": 1757786400.9202294,
+      "letter": "SPACE",
+      "confidence": 0.95,
+      "word": "XC EACA KEADADBPBDLDK A "
+    },
+    {
+      "timestamp": 1757786403.2411122,
+      "letter": "E",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDLDK A E"
+    },
+    {
+      "timestamp": 1757786404.8894575,
+      "letter": "SPACE",
+      "confidence": 0.95,
+      "word": "XC EACA KEADADBPBDLDK A E "
+    },
+    {
+      "timestamp": 1757786410.5882323,
+      "letter": "B",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDLDK A E B"
+    },
+    {
+      "timestamp": 1757786413.7217681,
+      "letter": "A",
+      "confidence": 0.9,
+      "word": "XC EACA KEADADBPBDLDK A E BA"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Sign Language Recognition System Requirements
+# Core ML and Deep Learning
+tensorflow>=2.10.0
+keras>=2.10.0
+h5py>=3.7.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.6.0
+numpy>=1.21.0
+
+# Machine Learning Utilities
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# Additional utilities
+matplotlib>=3.5.0
+pillow>=9.0.0
+
+# Hand tracking and gesture recognition
+mediapipe>=0.10.0
+
+# Development and debugging
+ipython>=8.0.0
+jupyter>=1.0.0
