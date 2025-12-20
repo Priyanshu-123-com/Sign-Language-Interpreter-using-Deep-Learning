@@ -1,0 +1,15 @@
+{
+    "camera_index": 0,
+    "min_confidence": 0.7,
+    "min_frames": 8,
+    "voice_enabled": true,
+    "voice_rate": 150,
+    "ui_width": 1040,
+    "ui_height": 480,
+    "hand_area_x": 300,
+    "hand_area_y": 100,
+    "hand_area_w": 300,
+    "hand_area_h": 300,
+    "save_history": true,
+    "log_level": "INFO"
+}
